@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Felipe Xu · Currículum administrativo bilingüe",
+      "hasCanvas": false,
+      "bodyTextLen": 3478,
+      "bodyTextHash": "afbcaf54c846c50b2e035327288dd40037b5fc0b52c940bdc2974a9d17309b8f",
+      "bodyTextPrefix": "Felipe Xu Perfil para administración, atención internacional y t",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Felipe Xu · Currículum administrativo bilingüe",
+      "hasCanvas": false,
+      "bodyTextLen": 3472,
+      "bodyTextHash": "e71f317bd407d993ca98af82cf399b6e2e8a18585b3af7ff7b70895cda7fe578",
+      "bodyTextPrefix": "Felipe Xu Perfil para administración, atención internacional y t",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
